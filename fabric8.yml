@@ -1,0 +1,9 @@
+---
+buildName: "alex3"
+links:
+  Git: "https://github.com/AlexanderOwen-MeehanWork/alex3.git"
+  Job: "http://10.0.0.55:80/job/alex3"
+environments:
+  Testing: "default-testing"
+  Staging: "default-staging"
+  Production: "default-prod"
